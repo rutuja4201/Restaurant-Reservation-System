@@ -1,6 +1,6 @@
 # Restaurant-Reservation-System
 
-This is a Restaurant reservation system for confirming booking of table at Restaurant. HTML, CSs and basics of Javascript have been used to make this project.
+This is a Restaurant reservation system for confirming booking of table at Restaurant. HTML, CSS and basics of Javascript have been used to make this project.
 
 
 ![image](https://user-images.githubusercontent.com/75140561/147392207-ff9c91cd-899c-427f-b314-fe4a0a3bc2cb.png)
